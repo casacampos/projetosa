@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 *
  {
-    margin: 110px;
-    padding: 110px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: "Funnel Sans", sans-serif;
 }
@@ -11,12 +11,3 @@ body {
     
 display: flex;
 justify-content: center;}
-.container {
-    width: 100%;
-    max-width: 400px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin-top: 50px;
-}
